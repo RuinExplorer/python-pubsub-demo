@@ -1,4 +1,4 @@
-# python-pubsub-demo
+# demo-python-ethos-pubsub
 This demo application written in Python demonstrates how to use the Ethos Integration publish-subscribe messaging pattern. A general overview of this pattern is described [here.](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
 
 ## Ethos Integration Overview
